@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Selda Bayman</h1>
+<h1 align="center">Hi 👋, I'm Selda-Bayman</h1>
 
 <h3 align="center">
 Data Analyst | Exploring and Learning CRM Analytics, Big Data Sources & Digital Marketing
